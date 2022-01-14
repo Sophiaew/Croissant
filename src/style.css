@@ -1,0 +1,26 @@
+body {
+  background-color: #f8e8a6;
+}
+h1 {
+  text-align: center;
+}
+p {
+  padding: 5px 50px;
+  text-align: center;
+}
+img {
+  display: block;
+  border-radius: 10px;
+  margin: 30px auto;
+  max-width: 100%;
+}
+
+a {
+  color: green;
+
+  margin: 0 10px;
+}
+
+footer {
+  text-align: center;
+}
